@@ -133,3 +133,8 @@ cd Precision-Stepper-Motor-Angle-Controller-with-Microstepping
 ## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+
+---
+## 💬 Technical Development & Pair-Programming Logs
+The complete development logs and technical discussions for this project are documented in [CHAT_HISTORY.md](CHAT_HISTORY.md).
